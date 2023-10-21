@@ -1,0 +1,36 @@
+/* unuiversal selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* tag selector */
+header{
+    background: #176B87;
+    color: aqua;
+    padding: 36px;
+    text-align: center;
+}
+
+/* id selector */
+#sinopsis{
+    border: solid 1px #CAEDFF;
+    padding: 36px;
+    margin: 40px;
+    text-align: center;
+    line-height: 1.5;
+}
+/* class selector */
+.review{
+    border: solid 1px #CAEDFF;
+    padding: 36px;
+    margin: 40px;
+    text-align: center;
+    line-height: 1.5;
+}
+footer{
+    background: #176B87;
+    color: aqua;
+    padding: 36px;
+    text-align: center;
+}
